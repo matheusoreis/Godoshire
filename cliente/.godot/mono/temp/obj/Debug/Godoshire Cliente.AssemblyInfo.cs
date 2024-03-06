@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Godoshire Cliente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b5102b8d8ae4820c34ecf0ccbc300e966f50551")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14983b03149eb6ce4a5fdce30673eccdb6d12742")]
 [assembly: System.Reflection.AssemblyProductAttribute("Godoshire Cliente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Godoshire Cliente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

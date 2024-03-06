@@ -4,7 +4,7 @@
 /// pelo servidor para o cliente.
 enum ServerPackets {
   /// Packet vazia.
-  empty,
+  sendPing,
 }
 
 /// Extensão para fornecer funcionalidades adicionais ao enum `ServerPackets`.

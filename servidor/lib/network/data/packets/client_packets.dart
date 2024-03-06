@@ -3,8 +3,8 @@
 /// Esta enumeração lista os diferentes tipos de pacotes de dados que podem ser enviados
 /// pelo cliente para o servidor.
 enum ClientPackets {
-  /// Packet vazia.
-  empty,
+  ///
+  checkPing
 }
 
 /// Extensão para fornecer funcionalidades adicionais ao enum `ClientPackets`.

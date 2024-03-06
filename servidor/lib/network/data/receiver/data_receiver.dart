@@ -36,7 +36,7 @@ class DataReceiver {
 
   /// Inicializa as mensagens de tratamento de acordo com os tipos de pacotes definidos.
   void _initMessages() {
-    _receiverDataMessage[ClientPackets.empty.index] = PlaceholderHandler();
+    _receiverDataMessage[ClientPackets.checkPing.index] = PlaceholderHandler();
   }
 
   /// Recebe e processa os dados enviados pelo cliente.
